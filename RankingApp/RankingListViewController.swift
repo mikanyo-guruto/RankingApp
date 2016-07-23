@@ -6,6 +6,7 @@
 //  Copyright © 2016年 AKYLab. All rights reserved.
 //
 
+// テスト
 import UIKit
 import AlamofireImage
 
